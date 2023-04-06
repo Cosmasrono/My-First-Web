@@ -1,0 +1,42 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.joy{
+    display: flex;
+    background-color:lightgrey;
+    color: darkblue;
+}
+
+.joy1{
+    border: 1px solid rgb(49, 14, 133);
+    width: 45%;
+    height: 125px;
+    margin-top: 2%;
+    margin-left: 3%;
+    position: relative;
+    border-radius: 4%;
+    justify-content: left;
+    
+
+}
+
+
+
+.jj{
+    display: flex;
+    background-color:lightgrey;
+    color: darkblue;
+}
+
+
+.joy2{
+    border: 1px solid blueviolet;
+    width: 45%;
+    height: 125px;
+    margin-top:2% ;
+    margin-left:3% ;
+}
+
+
